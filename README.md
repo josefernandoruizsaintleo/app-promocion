@@ -43,3 +43,4 @@ Actualmente, muchos centros comerciales realizan sorteos promocionales pero depe
 ## Estado del Proyecto
 Borrador inicial. En desarrollo durante el término académico.
 
+Se crea proyecto en Android Studio para verificación de que todo este correctamente funcionando.
