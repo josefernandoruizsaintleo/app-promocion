@@ -44,3 +44,6 @@ Actualmente, muchos centros comerciales realizan sorteos promocionales pero depe
 Borrador inicial. En desarrollo durante el término académico.
 
 Se crea proyecto en Android Studio para verificación de que todo este correctamente funcionando.
+
+Se agrega el activity Login y los otros fragments al proyecto, se cargan dependencias y se verifican
+(en el siguiente commit se subiran los primeros diseños de las pantallas de los fragments)
